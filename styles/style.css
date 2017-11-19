@@ -6,13 +6,13 @@ body {
 
 #logo { /* logo position */
     position:absolute;
-    top:15%;
-    left:35%;
+    top:18%;
+    left:41%;
    }
 
 .options {
     position:absolute;
-    top: 1.5%;
+    top:2.5%;
     right: 4.5%;
 }
 
@@ -38,7 +38,7 @@ li a {
 
 ul.top {
     position:absolute;
-    top:0;
+    top:4;
     left:1%;
     width:93%;
     font-size:13px;
